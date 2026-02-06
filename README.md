@@ -30,7 +30,18 @@ Each issue is:
 - Beginner-safe
 
 ## 🤝 How to Contribute
-Please read `CONTRIBUTING.md` before opening a PR.
+## Contributing
+
+Contributions are welcome!  
+This project is beginner-friendly and suitable for first-time contributors.
+
+Check the **Issues** tab for:
+- `good first issue`
+- `frontend`
+
+Please read `CONTRIBUTING.md` before submitting a PR.
+
+
 
 ## ⭐ Support
 If this repo helped you, please consider starring it.
